@@ -29,6 +29,9 @@
     echo hai('Ali');
     ?>
 
+<br>
+    <a href="contoh.php">CONTOH</a>;
+
   
 </body>
 </html>
