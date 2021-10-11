@@ -33,6 +33,6 @@
 
 <?php
 function bmi($berat,$tinggi) {
-    #
-    return 0;
+    $total = $berat / $tinggi;
+    return $total;
 }
